@@ -1,5 +1,5 @@
 ### Udacity /  Data Analyst Nanodegree 08'2016
-### PP3: OpenStreetMap Data Case Study
+### P3: OpenStreetMap Data Case Study
 
 ### ASSIGNMENT:
 Join OpenStreetMap project that creates and distributes free geographic data for the world, explore, thoroughly audit and clean the dataset, converting it from XML to CSV format. Then import the cleaned .csv files into a SQL database using provided schema. 
