@@ -6,4 +6,4 @@ Join OpenStreetMap project that creates and distributes free geographic data for
 
 ### TO USE:
 Clone project or download project's zip folder to your computer.
-Open P3_OpenStreetMap Data Case Study.html file in your favorite browser.
+Open P3_OpenStreetMap_Data_Case_Study.html  or pdf format file. These documents include all my work, exploration, auditing, cleaning of the dataset, some ideas and conclusion, sources used for an additional information. 
